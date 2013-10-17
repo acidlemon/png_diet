@@ -14,7 +14,7 @@ use File::stat;
 
 use Plack::Builder;
 
-our $VERSION = '0.11';
+our $VERSION = '1.0';
 
 # put your configuration here
 sub load_config {
